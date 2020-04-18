@@ -7,7 +7,6 @@ def speak_to_grandma(word)
   elsif word == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   end
-
 end
 
 
